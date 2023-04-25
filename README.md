@@ -39,3 +39,9 @@ Course instructor - *Sreenath Balkrishnan*
 Course code - **ME102**\
 Course instructor - *Arindam Das*
 
+# Hobbies and Interests
+    
+       1. I like to play tennis
+       2. Watching tennis and cricket matches
+       3. Reading books
+
