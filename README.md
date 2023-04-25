@@ -4,7 +4,7 @@
 
 - ## Profile Photo
 
-![Photo](<a href="https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm#query=cartoon%20face&position=4&from_view=keyword&track=ais">Image by brgfx</a> on Freepik)
+![Photo](https://www.google.com/search?channel=fs&client=ubuntu&q=profile+picture#imgrc=GonJG9aLPTc5LM)
 
 - ## Description
   - Hello I am Rutvij from Nashik, Maharashtra. Currently I am studying in IIT Goa. I am in Maths and Computing branch
