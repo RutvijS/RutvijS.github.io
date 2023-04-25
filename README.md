@@ -23,19 +23,19 @@ Course code - **CS102**\
 Course instructor - *Clint P. George*
 Course page link - <https://classroom.google.com/u/0/c/NTk1MTg5ODUxNDcz>
 
-- Physics
+- Physics\
 Course code - **PH102**\
 Course instructor - *Vaibhav Wasnik*
 
-- Maths
+- Maths\
 Course code - **MA102**\
 Course instructor - *Kalpesh Haria*
 
-- Bio
+- Bio\
 Course code - **BO102**\
 Course instructor - *Sreenath Balkrishnan*
 
-- Mechanical
+- Mechanical\
 Course code - **ME102**\
 Course instructor - *Arindam Das*
 
